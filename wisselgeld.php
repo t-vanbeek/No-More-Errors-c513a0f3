@@ -70,4 +70,5 @@ $restbedrag = centCalculator($centen, $restBedrag);
 } catch (Exception  $exeption) {
     echo "Foutmelding: " . $exeption -> getMessage ();
 }
+
 ?>
